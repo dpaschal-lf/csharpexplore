@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace c_helloworld
+namespace HelloWorld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var c1 = new MyClass();
+            Console.WriteLine( $"Hello world! {c1.ReturnMessage()}");
         }
     }
 }
