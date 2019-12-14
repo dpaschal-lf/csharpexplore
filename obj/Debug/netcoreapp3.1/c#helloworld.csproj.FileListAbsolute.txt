@@ -1,0 +1,11 @@
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld.deps.json
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld.runtimeconfig.json
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld.runtimeconfig.dev.json
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld.dll
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/bin/Debug/netcoreapp3.1/c#helloworld.pdb
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/obj/Debug/netcoreapp3.1/c#helloworld.csprojAssemblyReference.cache
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/obj/Debug/netcoreapp3.1/c#helloworld.AssemblyInfoInputs.cache
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/obj/Debug/netcoreapp3.1/c#helloworld.AssemblyInfo.cs
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/obj/Debug/netcoreapp3.1/c#helloworld.dll
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/c#helloworld/obj/Debug/netcoreapp3.1/c#helloworld.pdb
